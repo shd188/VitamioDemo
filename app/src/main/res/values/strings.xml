@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VitamioDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="video_layout_loading">正在缓冲...</string>
+</resources>
